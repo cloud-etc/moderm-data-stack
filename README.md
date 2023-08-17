@@ -1,3 +1,6 @@
+
+./modern-data-stack.jpg
+
 # Data Engineering Modern Data Stack 
 Pipeline de dados da COVID 19 
 
