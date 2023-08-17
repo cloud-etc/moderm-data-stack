@@ -1,6 +1,8 @@
 # Data Engineering Modern Data Stack 
 Pipeline de dados da COVID 19 
 
+Link para os datasets: https://health.google.com/covid-19/open-data/raw-data
+
 # Integração das ferramentas:
 
 Para ingestão: Airbyte - https://airbyte.com/
