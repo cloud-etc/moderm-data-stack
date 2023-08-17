@@ -1,5 +1,5 @@
 
-./modern-data-stack.jpg
+https://github.com/DbaElvis/moderm-data-stack/blob/main/modern-data-stack.jpg
 
 # Data Engineering Modern Data Stack 
 Pipeline de dados da COVID 19 
